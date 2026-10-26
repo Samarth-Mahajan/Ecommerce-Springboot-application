@@ -1,7 +1,8 @@
-package DistributedApplications2026.com.example.demo;
+package DistributedApplications2026.com.example.demo.controller;
 
 import java.util.List;
 
+import DistributedApplications2026.com.example.demo.model.User;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

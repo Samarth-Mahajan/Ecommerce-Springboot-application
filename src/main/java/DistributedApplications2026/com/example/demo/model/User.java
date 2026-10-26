@@ -1,4 +1,4 @@
-package DistributedApplications2026.com.example.demo;
+package DistributedApplications2026.com.example.demo.model;
 
 public class User {
 
